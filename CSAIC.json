@@ -1,0 +1,12 @@
+{
+    "name": "Cyberdyne Systems AI",
+    "symbol": "CSAIC",
+    "description": "Cyberdyne Systems AI Corporation",
+    "image": "https://raw.githubusercontent.com/CyberFOUNDER/meta/main/cyberdyne.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
