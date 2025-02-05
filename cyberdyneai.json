@@ -1,0 +1,12 @@
+{
+    "name": "Cyberpunk2077",
+    "symbol": "CP2077",
+    "description": "Night City",
+    "image": "https://raw.githubusercontent.com/CyberFOUNDER/meta/main/cyberpunk2077.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
